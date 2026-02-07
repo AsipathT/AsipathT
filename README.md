@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Niduka Thennakoon 👋</h1>
+<h1 align="center">Hi there, I'm Niduka Vikum Asipath 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Full+Stack+Developer;ERP+%26+AI/ML+Enthusiast" alt="Typing SVG" />
@@ -12,11 +12,28 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently an undergraduate at **SLIIT**
-- 💼 Currently working as an **Associate Software Engineer**
-- 🌱 I'm currently learning **ERP Systems and AI/ML**
-- 📫 Reach me at: **nidukavikumasipath@gmail.com**
-- 💬 Ask me about **Web Development, ERP Systems, React**
+- 🎓 Undergraduate at **SLIIT**, specializing in Software Engineering  
+- 💼 Currently working as an **Associate Software Engineer**  
+- 🌱 Currently learning **ERP Systems and AI/ML**  
+- 💡 Passionate Full Stack Developer with hands-on experience in ERP systems, web platforms, and scalable backend architectures  
+- 📫 Reach me at: **nidukavikumasipath@gmail.com**  
+- 💬 Ask me about **Web Development, ERP Systems, React, and Backend Architecture**
+
+---
+
+## 🚀 Featured Projects
+
+- 🎬 **Online Movie & TV Series Browsing System**  
+  Full-stack web application with authentication, payment processing, and content management.  
+  Tech: Java, MySQL, JSP, Tomcat  
+
+- 🏨 **Hotel Management System**  
+  ERP-style system with payment modules, reporting, and admin dashboards.  
+  Tech: Java, MySQL, MVC Architecture  
+
+- 🤖 **AI-Powered Resume Analyzer**  
+  ML-based system to evaluate resumes and match job roles.  
+  Tech: Python, Flask, NLP  
 
 ---
 
