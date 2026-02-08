@@ -1,55 +1,49 @@
 <h1 align="center">Hi there, I'm Niduka Vikum Asipath 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Full+Stack+Developer;ERP+%26+AI/ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer;Full+Stack+Developer;ERP+%26+AI/ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Undergraduate at **SLIIT**, specializing in Software Engineering  
-- 💼 Currently working as an **Associate Software Engineer**  
-- 🌱 Currently learning **ERP Systems and AI/ML**  
-- 💡 Passionate Full Stack Developer with hands-on experience in ERP systems, web platforms, and scalable backend architectures  
-- 📫 Reach me at: **nidukavikumasipath@gmail.com**  
+- 🎓 Undergraduate at **SLIIT** – Software Engineering  
+- 💼 Associate Software Engineer  
+- 🌱 Learning **ERP Systems & AI/ML**  
+- 💡 Full Stack Developer with hands-on experience in ERP, scalable backend architectures, and web platforms  
+- 📫 Contact: **[nidukavikumasipath@gmail.com](mailto:nidukavikumasipath@gmail.com)**  
 - 💬 Ask me about **Web Development, ERP Systems, React, and Backend Architecture**
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎬 **Online Movie & TV Series Browsing System**  
-  Full-stack web application with authentication, payment processing, and content management.  
-  Tech: Java, MySQL, JSP, Tomcat  
-
-- 🏨 **Hotel Management System**  
-  ERP-style system with payment modules, reporting, and admin dashboards.  
-  Tech: Java, MySQL, MVC Architecture  
-
-- 🤖 **AI-Powered Resume Analyzer**  
-  ML-based system to evaluate resumes and match job roles.  
-  Tech: Python, Flask, NLP  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Online Movie & TV Series Browsing System** | Full-stack web app with authentication, payment processing, and content management | Java, MySQL, JSP, Tomcat |
+| **Hotel Management System** | ERP-style system with payment modules, reporting, and dashboards | Java, MySQL, MVC Architecture |
+| **AI-Powered Resume Analyzer** | ML system to evaluate resumes and match job roles | Python, Flask, NLP |
 
 ---
 
-## 🛠️ Technologies I Know
+## 🛠️ Technologies I Use
 
-### Frontend Development
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" />
 </p>
 
-### Backend Development
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,firebase,mongodb,mysql,postgresql" />
 </p>
 
-### Tools & Others
+### Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,xd,docker,postman,linux" />
 </p>
@@ -69,7 +63,7 @@
 
 ---
 
-## 🔥 My Contributions
+## 🔥 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -80,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -88,7 +82,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsipathT&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AsipathT&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
