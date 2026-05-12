@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<br/>
-
 ---
 
 ## 👨‍💻 About Me
@@ -91,22 +89,20 @@ contact: nidukavikumasipath@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2e9ef7&icon_color=2e9ef7&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsipathT&theme=tokyonight&hide_border=true&background=0d1117&ring=2e9ef7&fire=ff6b6b&currStreakLabel=2e9ef7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=AsipathT&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e9ef7&text_color=c9d1d9&langs_count=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="49%" />
 </p>
-
-> 💡 **Note:** GitHub Stats cards render correctly on GitHub. If images appear broken in a local preview, that's expected — they load from GitHub's CDN when viewed on github.com.
 
 ---
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
@@ -124,6 +120,22 @@ contact: nidukavikumasipath@gmail.com
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AsipathT&color=2e9ef7&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/AsipathT?color=2e9ef7&style=for-the-badge&logo=github&label=FOLLOWERS" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/niduka-thennakoon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nidukavikumasipath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AsipathT" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
