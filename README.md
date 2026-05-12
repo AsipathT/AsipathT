@@ -86,16 +86,72 @@ contact: nidukavikumasipath@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=AsipathT&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsipathT&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsipathT&theme=tokyonight" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsipathT&theme=tokyonight" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsipathT&theme=tokyonight&utcOffset=5.5" width="32%" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚙️ **Setup required:** Add this GitHub Action to generate the snake animation automatically.
+> Create `.github/workflows/snake.yml` in your profile repo with the content below, then the snake will auto-generate into `output/` on every push/schedule.
+
+<details>
+<summary>📋 Click to see snake.yml workflow</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AsipathT
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<!-- After running the workflow above, uncomment these lines: -->
+<!--
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" />
+  </picture>
+</p>
+-->
 
 ---
 
