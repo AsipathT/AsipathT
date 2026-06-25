@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2e9ef7&height=220&section=header&text=Niduka%20Thennakoon&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:182848,70:1a1b4b,100:2e9ef7&height=240&section=header&text=Niduka%20Thennakoon&fontSize=54&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="header"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;Full+Stack+%7C+ERP+%7C+AI%2FML+Developer;Building+production-grade+systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7,7C3AED,06B6D4&center=true&vCenter=true&width=650&height=50&lines=Associate+Software+Engineer;Full+Stack+%7C+ERP+%7C+AI%2FML+Developer;Architecting+production-grade+systems;Currently+exploring+Applied+ML+%F0%9F%A7%A0;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,6 +28,13 @@
 ### 👨‍💻 About Me
 
 I'm a Software Engineer from Sri Lanka 🇱🇰 focused on building **full-stack web platforms, ERP systems, and AI/ML-powered applications**. I enjoy taking products from architecture to deployment — REST APIs, real-time features, and clean, scalable system design.
+
+<p>
+  🔭 &nbsp;Currently building <b>SmartCampusHub</b> — a Spring Boot + React campus management platform<br/>
+  🌱 &nbsp;Currently deepening my knowledge of <b>AI/ML applications</b> and applied NLP<br/>
+  💬 &nbsp;Ask me about <b>React, Spring Boot, Odoo ERP, or the MERN stack</b><br/>
+  ⚡ &nbsp;Fun fact: most of my projects start as a SLIIT coursework brief and end up production-shaped
+</p>
 
 ```yaml
 name:        Niduka Thennakoon
@@ -119,24 +126,30 @@ contact:     nidukavikumasipath@gmail.com
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsipathT&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" width="95%" />
+  </picture>
 </p>
 
----
-
 <details>
-<summary>🐍 Contribution Snake (setup instructions)</summary>
+<summary><sub>⚙️ Snake not showing? One-time setup (click to expand)</sub></summary>
 <br/>
 
-Add this GitHub Action to your profile repo to auto-generate a contribution snake animation. Create `.github/workflows/snake.yml` with:
+The animation above renders only after the workflow below has run at least once on your profile repo. Create `.github/workflows/snake.yml` with:
 
 ```yaml
 name: Generate Snake
@@ -170,19 +183,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After running the workflow once, uncomment this block to display it:
-
-```html
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AsipathT/AsipathT/output/github-snake.svg" />
-  </picture>
-</p>
-```
+Commit it, then run the workflow once manually from the **Actions** tab (`workflow_dispatch`). It will then re-run automatically every day at midnight.
 
 </details>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=AsipathT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center"><sub><i>Using a community-maintained mirror of <code>github-profile-trophy</code> — the original host is currently over its free hosting quota and returning errors for everyone, not just this profile.</i></sub></p>
 
 ---
 
