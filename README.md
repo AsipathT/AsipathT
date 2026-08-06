@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7,7C3AED,06B6D4&center=true&vCenter=true&width=650&height=50&lines=Associate+Software+Engineer;Full+Stack+%7C+ERP+%7C+AI%2FML+Developer;Architecting+production-grade+systems;Currently+exploring+Applied+ML+%F0%9F%A7%A0;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7,7C3AED,06B6D4&center=true&vCenter=true&width=650&height=50&lines=Associate+Software+Engineer;Full+Stack+%7C+ERP+%7C+AI%2FML+Developer;Architecting+production-grade+systems;Currently+exploring+Applied+ML+%F0%9F%A7%A0;Managing+myself+like+a+CEO+%F0%9F%9A%80;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,11 +19,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsipathT&color=2e9ef7&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/AsipathT?color=2e9ef7&style=flat-square&logo=github&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=AsipathT&color=2e9ef7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/AsipathT?color=2e9ef7&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 👨‍💻 About Me
 
@@ -33,6 +35,7 @@ I'm a Software Engineer from Sri Lanka 🇱🇰 focused on building **full-stack
   🔭 &nbsp;Currently building <b>SmartCampusHub</b> — a Spring Boot + React campus management platform<br/>
   🌱 &nbsp;Currently deepening my knowledge of <b>AI/ML applications</b> and applied NLP<br/>
   💬 &nbsp;Ask me about <b>React, Spring Boot, Odoo ERP, or the MERN stack</b><br/>
+  🎯 &nbsp;Long game: building and running my own products, not just shipping other people's<br/>
   ⚡ &nbsp;Fun fact: most of my projects start as a SLIIT coursework brief and end up production-shaped
 </p>
 
@@ -49,7 +52,9 @@ currently:   Shipping production systems & exploring applied ML
 contact:     nidukavikumasipath@gmail.com
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -92,9 +97,15 @@ contact:     nidukavikumasipath@gmail.com
 
 <p align="center"><i>More projects — including a full-stack event booking platform, an AI-powered resume analyzer, and a Figma UI/UX redesign — are on my <a href="https://linkedin.com/in/niduka-thennakoon">LinkedIn</a>.</i></p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+Tools" />
+</p>
 
 **Frontend**
 <p align="left">
@@ -111,7 +122,9 @@ contact:     nidukavikumasipath@gmail.com
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,xd,docker,postman,linux&perline=10" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 📊 GitHub Activity
 
@@ -126,6 +139,11 @@ contact:     nidukavikumasipath@gmail.com
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsipathT&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
 </p>
 
@@ -133,7 +151,9 @@ contact:     nidukavikumasipath@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 🐍 Contribution Graph
 
@@ -187,7 +207,9 @@ Commit it, then run the workflow once manually from the **Actions** tab (`workfl
 
 </details>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
 
 ### 🏆 GitHub Trophies
 
@@ -197,7 +219,15 @@ Commit it, then run the workflow once manually from the **Actions** tab (`workfl
 
 <p align="center"><sub><i>Using a community-maintained mirror of <code>github-profile-trophy</code> — the original host is currently over its free hosting quota and returning errors for everyone, not just this profile.</i></sub></p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
+</p>
+
+### 💭 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
 ### 🤝 Connect with Me
 
