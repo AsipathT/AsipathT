@@ -126,35 +126,6 @@ contact:     nidukavikumasipath@gmail.com
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
 </p>
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsipathT&theme=tokyonight" width="95%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsipathT&theme=tokyonight" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsipathT&theme=tokyonight" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsipathT&theme=tokyonight&utcOffset=5.5" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsipathT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsipathT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsipathT&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsipathT&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e9ef7&height=3&section=header" width="100%"/>
-</p>
-
 ### 🐍 Contribution Graph
 
 <p align="center">
