@@ -58,6 +58,8 @@ contact:     nidukavikumasipath@gmail.com
 
 ### 🚀 Featured Projects
 
+**Personal & Academic Builds**
+
 <table>
   <thead>
     <tr>
@@ -91,6 +93,35 @@ contact:     nidukavikumasipath@gmail.com
       <td><b>💰 Weathify</b><br/><sub>Personal Finance Tracker — Mobile App</sub></td>
       <td>Android personal finance app to track income & expenses, set monthly/yearly budgets, and generate financial reports — built to help users stay in control of their money.</td>
       <td><code>Kotlin</code> <code>Mobile Application Development</code></td>
+    </tr>
+  </tbody>
+</table>
+
+**Client / Enterprise Work — Core 48 (Pvt) Ltd**
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🎓 Saegis University</b><br/><sub>Odoo ERP Implementation & Version Migration</sub></td>
+      <td>Led the end-to-end Odoo implementation for a university client, including version migration with zero data loss, enhanced roster management, and rollout of Leads, Library Management, and Student Management modules to support full higher-education operations.</td>
+      <td><code>Odoo</code> <code>Python</code> <code>XML</code> <code>Odoo Version Migration</code></td>
+    </tr>
+    <tr>
+      <td><b>🏭 Unicol</b><br/><sub>Manufacturing & Product Module Implementation</sub></td>
+      <td>Configured Bill of Materials (BOM) and Goods Received Note (GRN) workflows to streamline procurement, alongside Manufacturing, Inventory, and Leads management modules connecting sales pipeline to production planning.</td>
+      <td><code>Odoo Manufacturing</code> <code>Odoo Inventory</code> <code>Python</code> <code>XML</code></td>
+    </tr>
+    <tr>
+      <td><b>👕 Aitken Spence Garment</b><br/><sub>HR/Payroll Module Implementation</sub></td>
+      <td>Configured and customized the HR/Payroll module for a garment-industry client, aligning system workflows with client-specific approval and payroll processes.</td>
+      <td><code>Odoo HR/Payroll</code> <code>Python</code> <code>XML</code></td>
     </tr>
   </tbody>
 </table>
